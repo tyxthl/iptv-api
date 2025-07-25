@@ -6,6 +6,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/
 https://gh.catmak.name/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://gh.catmak.name/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://gh.catmak.name/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt
+https://gh.catmak.name/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
