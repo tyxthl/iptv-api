@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-25 22:57:43,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
+2025-07-26 07:25:41,url
 
 央视频道,#genre#
 
@@ -50,7 +50,6 @@
 山东频道,#genre#
 
 山西频道,#genre#
-平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 
 安徽频道,#genre#
 
