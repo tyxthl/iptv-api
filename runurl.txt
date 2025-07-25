@@ -1,1 +1,2 @@
 https://gh.catmak.name/https://raw.githubusercontent.com/tyxthl/iptv-api/master/output/resultu.m3u
+https://gh.catmak.name/https://raw.githubusercontent.com/tyxthl/iptv-api/master/output/epg/epg.gz
