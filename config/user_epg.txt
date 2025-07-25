@@ -1,0 +1,9 @@
+# 这是EPG订阅列表，用于生成M3U结果频道菜单信息
+# This is the EPG subscription list used to generate M3U result channel menu information
+
+http://epg.51zmt.top:8000/e.xml
+https://m3u.ibert.me/epg/112114_xyz.xml
+https://m3u.ibert.me/epg/51zmt.xml
+http://e.erw.cc/e.xml
+http://e.erw.cc/cc.xml
+https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/e.xml
