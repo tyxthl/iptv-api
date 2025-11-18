@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-18 19:31:07,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+2025-11-19 07:23:17,url
 
 央视频道,#genre#
 
@@ -18,7 +18,6 @@
 重庆频道,#genre#
 
 江苏频道,#genre#
-无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 
 辽宁频道,#genre#
 
