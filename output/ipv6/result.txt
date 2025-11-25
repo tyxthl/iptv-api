@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-11-25 07:50:33,url
+2025-11-25 21:41:48,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 
 央视频道,#genre#
+CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 
 央视付费频道,#genre#
 
