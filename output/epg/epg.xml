@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260612004903 +0800">
+<tv date="20260612141600 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -19888,6 +19888,69 @@
 	<programme channel="广州竞赛" start="20260612231500 +0800" stop="20260612235900 +0800">
 		<title lang="zh">中甲精华</title>
 	</programme>
+	<channel id="广西国际">
+		<display-name lang="zh">广西国际</display-name>
+	</channel>
+	<programme channel="广西国际" start="20260612000000 +0800" stop="20260612014000 +0800">
+		<title lang="zh">经典剧场：40集：长乐曲 19-20</title>
+	</programme>
+	<programme channel="广西国际" start="20260612014000 +0800" stop="20260612021000 +0800">
+		<title lang="zh">乡村振兴新农人</title>
+	</programme>
+	<programme channel="广西国际" start="20260612021000 +0800" stop="20260612043000 +0800">
+		<title lang="zh">时光剧场：40集：欢乐家长群 31-33</title>
+	</programme>
+	<programme channel="广西国际" start="20260612043000 +0800" stop="20260612050000 +0800">
+		<title lang="zh">纪录广西</title>
+	</programme>
+	<programme channel="广西国际" start="20260612050000 +0800" stop="20260612073000 +0800">
+		<title lang="zh">天下剧场：40集：大山的女儿 35-37</title>
+	</programme>
+	<programme channel="广西国际" start="20260612073000 +0800" stop="20260612081500 +0800">
+		<title lang="zh">中外纪录片展播</title>
+	</programme>
+	<programme channel="广西国际" start="20260612081500 +0800" stop="20260612082000 +0800">
+		<title lang="zh">《呼·应》</title>
+	</programme>
+	<programme channel="广西国际" start="20260612082000 +0800" stop="20260612100000 +0800">
+		<title lang="zh">经典剧场：40集：长乐曲 21-22</title>
+	</programme>
+	<programme channel="广西国际" start="20260612100000 +0800" stop="20260612103000 +0800">
+		<title lang="zh">广西新闻</title>
+	</programme>
+	<programme channel="广西国际" start="20260612103000 +0800" stop="20260612110000 +0800">
+		<title lang="zh">海丝路</title>
+	</programme>
+	<programme channel="广西国际" start="20260612110000 +0800" stop="20260612131500 +0800">
+		<title lang="zh">时光剧场：40集：欢乐家长群 34-36</title>
+	</programme>
+	<programme channel="广西国际" start="20260612131500 +0800" stop="20260612133000 +0800">
+		<title lang="zh">《呼·应》</title>
+	</programme>
+	<programme channel="广西国际" start="20260612133000 +0800" stop="20260612160000 +0800">
+		<title lang="zh">天下剧场：40集：大山的女儿 38-40</title>
+	</programme>
+	<programme channel="广西国际" start="20260612160000 +0800" stop="20260612163000 +0800">
+		<title lang="zh">广西新闻</title>
+	</programme>
+	<programme channel="广西国际" start="20260612163000 +0800" stop="20260612170000 +0800">
+		<title lang="zh">海丝路</title>
+	</programme>
+	<programme channel="广西国际" start="20260612170000 +0800" stop="20260612183000 +0800">
+		<title lang="zh">经典剧场：40集：长乐曲 23-24</title>
+	</programme>
+	<programme channel="广西国际" start="20260612183000 +0800" stop="20260612205500 +0800">
+		<title lang="zh">时光剧场：40集：欢乐家长群 37-39</title>
+	</programme>
+	<programme channel="广西国际" start="20260612205500 +0800" stop="20260612210000 +0800">
+		<title lang="zh">《呼·应》</title>
+	</programme>
+	<programme channel="广西国际" start="20260612210000 +0800" stop="20260612213000 +0800">
+		<title lang="zh">寻声而动</title>
+	</programme>
+	<programme channel="广西国际" start="20260612213000 +0800" stop="20260612235900 +0800">
+		<title lang="zh">天下剧场：40集：欢乐家长群 1-3</title>
+	</programme>
 	<channel id="广西新闻">
 		<display-name lang="zh">广西新闻</display-name>
 	</channel>
@@ -19901,7 +19964,7 @@
 		<title lang="zh">海丝路(重播)</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612011500 +0800" stop="20260612021500 +0800">
-		<title lang="zh">在线大搜索(重播)</title>
+		<title lang="zh">在线大搜索（重播）</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612021500 +0800" stop="20260612031500 +0800">
 		<title lang="zh">新闻在线(重播)</title>
@@ -19916,7 +19979,7 @@
 		<title lang="zh">新闻在线(重播)</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612051500 +0800" stop="20260612060000 +0800">
-		<title lang="zh">在线大搜索(重播)</title>
+		<title lang="zh">在线大搜索（重播）</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612060000 +0800" stop="20260612063000 +0800">
 		<title lang="zh">准点直播间(重播)</title>
@@ -19976,7 +20039,7 @@
 		<title lang="zh">经济新观察(重播)</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612180000 +0800" stop="20260612183000 +0800">
-		<title lang="zh">准点直播间(直播)</title>
+		<title lang="zh">准点直播间（直播）</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612183000 +0800" stop="20260612193000 +0800">
 		<title lang="zh">在线大搜索(直播)</title>
@@ -19991,12 +20054,12 @@
 		<title lang="zh">经济新观察</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612213000 +0800" stop="20260612223000 +0800">
-		<title lang="zh">在线大搜索(重播)</title>
+		<title lang="zh">在线大搜索（重播）</title>
 	</programme>
 	<programme channel="广西新闻" start="20260612223000 +0800" stop="20260612233000 +0800">
 		<title lang="zh">新闻在线(重播)</title>
 	</programme>
-	<programme channel="广西新闻" start="20260612233000 +0800" stop="20260612000000 +0800">
+	<programme channel="广西新闻" start="20260612233000 +0800" stop="20260612235900 +0800">
 		<title lang="zh">广西新闻(重播)</title>
 	</programme>
 	<channel id="攀枝花新闻综合">
@@ -21739,68 +21802,98 @@
 	<channel id="河南民生">
 		<display-name lang="zh">河南民生</display-name>
 	</channel>
-	<programme channel="河南民生" start="20260612001000 +0800" stop="20260612005600 +0800">
-		<title lang="zh">民生棋牌汇</title>
+	<programme channel="河南民生" start="20260612001000 +0800" stop="20260612005300 +0800">
+		<title lang="zh">睡不着剧场一隐形将军</title>
 	</programme>
-	<programme channel="河南民生" start="20260612005600 +0800" stop="20260612064000 +0800">
-		<title lang="zh">睡不着剧场:我的绝密生涯</title>
+	<programme channel="河南民生" start="20260612005300 +0800" stop="20260612013600 +0800">
+		<title lang="zh">睡不着剧场二隐形将军</title>
 	</programme>
-	<programme channel="河南民生" start="20260612064000 +0800" stop="20260612074000 +0800">
-		<title lang="zh">小莉帮忙大参考(重播)</title>
+	<programme channel="河南民生" start="20260612013600 +0800" stop="20260612021900 +0800">
+		<title lang="zh">睡不着剧场三隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612021900 +0800" stop="20260612030200 +0800">
+		<title lang="zh">睡不着剧场四隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612030200 +0800" stop="20260612034500 +0800">
+		<title lang="zh">睡不着剧场五隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612034500 +0800" stop="20260612042800 +0800">
+		<title lang="zh">睡不着剧场六隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612042800 +0800" stop="20260612051100 +0800">
+		<title lang="zh">睡不着剧场七隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612051100 +0800" stop="20260612055400 +0800">
+		<title lang="zh">睡不着剧场八隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612055400 +0800" stop="20260612063700 +0800">
+		<title lang="zh">睡不着剧场九隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612063700 +0800" stop="20260612072000 +0800">
+		<title lang="zh">睡不着剧场十隐形将军</title>
+	</programme>
+	<programme channel="河南民生" start="20260612072000 +0800" stop="20260612074000 +0800">
+		<title lang="zh">乐淘天下</title>
 	</programme>
 	<programme channel="河南民生" start="20260612074000 +0800" stop="20260612081500 +0800">
-		<title lang="zh">上午好时光</title>
+		<title lang="zh">上午好时光一</title>
 	</programme>
 	<programme channel="河南民生" start="20260612081500 +0800" stop="20260612084500 +0800">
 		<title lang="zh">乐淘天下</title>
 	</programme>
 	<programme channel="河南民生" start="20260612084500 +0800" stop="20260612092000 +0800">
-		<title lang="zh">上午好时光</title>
+		<title lang="zh">上午好时光二</title>
 	</programme>
-	<programme channel="河南民生" start="20260612092000 +0800" stop="20260612102500 +0800">
-		<title lang="zh">上午好时光</title>
+	<programme channel="河南民生" start="20260612092000 +0800" stop="20260612095500 +0800">
+		<title lang="zh">上午好时光三</title>
+	</programme>
+	<programme channel="河南民生" start="20260612095500 +0800" stop="20260612102500 +0800">
+		<title lang="zh">上午好时光四</title>
 	</programme>
 	<programme channel="河南民生" start="20260612102500 +0800" stop="20260612104500 +0800">
 		<title lang="zh">乐淘天下</title>
 	</programme>
 	<programme channel="河南民生" start="20260612104500 +0800" stop="20260612131000 +0800">
-		<title lang="zh">大象直播间(午间)</title>
+		<title lang="zh">大象直播间直播</title>
 	</programme>
 	<programme channel="河南民生" start="20260612131000 +0800" stop="20260612133000 +0800">
 		<title lang="zh">乐淘天下</title>
 	</programme>
-	<programme channel="河南民生" start="20260612133000 +0800" stop="20260612143300 +0800">
-		<title lang="zh">棋牌汇(重播)</title>
+	<programme channel="河南民生" start="20260612133000 +0800" stop="20260612140000 +0800">
+		<title lang="zh">棋牌汇重播上</title>
+	</programme>
+	<programme channel="河南民生" start="20260612140000 +0800" stop="20260612143300 +0800">
+		<title lang="zh">棋牌汇重播下</title>
 	</programme>
 	<programme channel="河南民生" start="20260612143300 +0800" stop="20260612153100 +0800">
-		<title lang="zh">棋牌汇扩大版(重播)</title>
+		<title lang="zh">棋牌汇扩大版重播</title>
 	</programme>
 	<programme channel="河南民生" start="20260612153100 +0800" stop="20260612153900 +0800">
 		<title lang="zh">乐淘天下</title>
 	</programme>
-	<programme channel="河南民生" start="20260612153900 +0800" stop="20260612165400 +0800">
-		<title lang="zh">双升英雄会(重播)</title>
+	<programme channel="河南民生" start="20260612153900 +0800" stop="20260612161900 +0800">
+		<title lang="zh">双升英雄会重播上</title>
+	</programme>
+	<programme channel="河南民生" start="20260612161900 +0800" stop="20260612165400 +0800">
+		<title lang="zh">双升英雄会重播下</title>
 	</programme>
 	<programme channel="河南民生" start="20260612165400 +0800" stop="20260612165500 +0800">
-		<title lang="zh">节目预告</title>
+		<title lang="zh">香香美食预告</title>
 	</programme>
 	<programme channel="河南民生" start="20260612165500 +0800" stop="20260612172500 +0800">
 		<title lang="zh">乐淘天下</title>
 	</programme>
 	<programme channel="河南民生" start="20260612172500 +0800" stop="20260612180500 +0800">
-		<title lang="zh">大象直播间(下午)</title>
+		<title lang="zh">香香美食</title>
 	</programme>
 	<programme channel="河南民生" start="20260612180500 +0800" stop="20260612193500 +0800">
-		<title lang="zh">小莉帮忙大参考</title>
+		<title lang="zh">小莉帮忙大参考直播</title>
 	</programme>
 	<programme channel="河南民生" start="20260612193500 +0800" stop="20260612201000 +0800">
 		<title lang="zh">民生精华版</title>
 	</programme>
-	<programme channel="河南民生" start="20260612201000 +0800" stop="20260612205700 +0800">
-		<title lang="zh">香香美食</title>
-	</programme>
-	<programme channel="河南民生" start="20260612205700 +0800" stop="20260612210500 +0800">
-		<title lang="zh">乐淘天下</title>
+	<programme channel="河南民生" start="20260612201000 +0800" stop="20260612210500 +0800">
+		<title lang="zh">民生棋牌汇</title>
 	</programme>
 	<programme channel="河南民生" start="20260612210500 +0800" stop="20260612220500 +0800">
 		<title lang="zh">棋牌汇特别版</title>
@@ -21808,11 +21901,116 @@
 	<programme channel="河南民生" start="20260612220500 +0800" stop="20260612221200 +0800">
 		<title lang="zh">乐淘天下</title>
 	</programme>
-	<programme channel="河南民生" start="20260612221200 +0800" stop="20260612232000 +0800">
-		<title lang="zh">双升英雄会</title>
+	<programme channel="河南民生" start="20260612221200 +0800" stop="20260612224600 +0800">
+		<title lang="zh">双升英雄会上</title>
+	</programme>
+	<programme channel="河南民生" start="20260612224600 +0800" stop="20260612232000 +0800">
+		<title lang="zh">双升英雄会下</title>
 	</programme>
 	<programme channel="河南民生" start="20260612232000 +0800" stop="20260612235900 +0800">
 		<title lang="zh">棋牌汇扩大版</title>
+	</programme>
+	<channel id="河南都市">
+		<display-name lang="zh">河南都市</display-name>
+	</channel>
+	<programme channel="河南都市" start="20260612000000 +0800" stop="20260612011000 +0800">
+		<title lang="zh">精彩剧场烈火刀影</title>
+	</programme>
+	<programme channel="河南都市" start="20260612011000 +0800" stop="20260612020000 +0800">
+		<title lang="zh">精彩剧场烈火刀影</title>
+	</programme>
+	<programme channel="河南都市" start="20260612020000 +0800" stop="20260612030000 +0800">
+		<title lang="zh">精彩剧场烈火刀影</title>
+	</programme>
+	<programme channel="河南都市" start="20260612030000 +0800" stop="20260612034200 +0800">
+		<title lang="zh">重播高清河南新闻联播</title>
+	</programme>
+	<programme channel="河南都市" start="20260612034200 +0800" stop="20260612042500 +0800">
+		<title lang="zh">精彩剧场烈火刀影</title>
+	</programme>
+	<programme channel="河南都市" start="20260612042500 +0800" stop="20260612053000 +0800">
+		<title lang="zh">精彩剧场烈火刀影</title>
+	</programme>
+	<programme channel="河南都市" start="20260612053000 +0800" stop="20260612061000 +0800">
+		<title lang="zh">精彩剧场烈火刀影</title>
+	</programme>
+	<programme channel="河南都市" start="20260612061000 +0800" stop="20260612070000 +0800">
+		<title lang="zh">精彩剧场烈火刀影</title>
+	</programme>
+	<programme channel="河南都市" start="20260612070000 +0800" stop="20260612080000 +0800">
+		<title lang="zh">精品剧场娘心</title>
+	</programme>
+	<programme channel="河南都市" start="20260612080000 +0800" stop="20260612091000 +0800">
+		<title lang="zh">精品剧场娘心</title>
+	</programme>
+	<programme channel="河南都市" start="20260612091000 +0800" stop="20260612101000 +0800">
+		<title lang="zh">精品剧场娘心</title>
+	</programme>
+	<programme channel="河南都市" start="20260612101000 +0800" stop="20260612110000 +0800">
+		<title lang="zh">精品剧场娘心</title>
+	</programme>
+	<programme channel="河南都市" start="20260612110000 +0800" stop="20260612120000 +0800">
+		<title lang="zh">精品剧场娘心</title>
+	</programme>
+	<programme channel="河南都市" start="20260612120000 +0800" stop="20260612130000 +0800">
+		<title lang="zh">午间剧场枪口之火线孤城</title>
+	</programme>
+	<programme channel="河南都市" start="20260612130000 +0800" stop="20260612131000 +0800">
+		<title lang="zh">政企观察</title>
+	</programme>
+	<programme channel="河南都市" start="20260612131000 +0800" stop="20260612134000 +0800">
+		<title lang="zh">午间剧场枪口之火线孤城</title>
+	</programme>
+	<programme channel="河南都市" start="20260612134000 +0800" stop="20260612142000 +0800">
+		<title lang="zh">都市报道重播</title>
+	</programme>
+	<programme channel="河南都市" start="20260612142000 +0800" stop="20260612145000 +0800">
+		<title lang="zh">打鱼晒网</title>
+	</programme>
+	<programme channel="河南都市" start="20260612145000 +0800" stop="20260612150000 +0800">
+		<title lang="zh">数字河南</title>
+	</programme>
+	<programme channel="河南都市" start="20260612150000 +0800" stop="20260612155000 +0800">
+		<title lang="zh">精选剧场血战松毛岭</title>
+	</programme>
+	<programme channel="河南都市" start="20260612155000 +0800" stop="20260612164000 +0800">
+		<title lang="zh">精选剧场血战松毛岭</title>
+	</programme>
+	<programme channel="河南都市" start="20260612164000 +0800" stop="20260612174000 +0800">
+		<title lang="zh">精选剧场我的抗战</title>
+	</programme>
+	<programme channel="河南都市" start="20260612174000 +0800" stop="20260612181000 +0800">
+		<title lang="zh">二套都市大医生</title>
+	</programme>
+	<programme channel="河南都市" start="20260612181000 +0800" stop="20260612183000 +0800">
+		<title lang="zh">都市报道录播</title>
+	</programme>
+	<programme channel="河南都市" start="20260612183000 +0800" stop="20260612185000 +0800">
+		<title lang="zh">都市报道录播</title>
+	</programme>
+	<programme channel="河南都市" start="20260612185000 +0800" stop="20260612191000 +0800">
+		<title lang="zh">都市报道录播</title>
+	</programme>
+	<programme channel="河南都市" start="20260612191000 +0800" stop="20260612193000 +0800">
+		<title lang="zh">都市报道录播</title>
+	</programme>
+	<programme channel="河南都市" start="20260612193000 +0800" stop="20260612202000 +0800">
+		<title lang="zh">都市剧场一世牵挂</title>
+	</programme>
+	<programme channel="河南都市" start="20260612202000 +0800" stop="20260612211000 +0800">
+		<title lang="zh">都市剧场一世牵挂</title>
+	</programme>
+	<programme channel="河南都市" start="20260612211000 +0800" stop="20260612222700 +0800">
+		<title lang="zh">都市剧场一世牵挂</title>
+	</programme>
+	<programme channel="河南都市" start="20260612222700 +0800" stop="20260612223000 +0800">
+		<title lang="zh">天天福彩</title>
+	</programme>
+	<programme channel="河南都市" start="20260612223000 +0800" stop="20260612230500 +0800">
+		<title lang="zh">二套都市爱家</title>
+	</programme>
+	<programme channel="河南都市" start="20260612230500 +0800" stop="20260612235900 +0800">
+		<title lang="zh">午夜剧场知青家庭</title>
 	</programme>
 	<channel id="法治天地">
 		<display-name lang="zh">法治天地</display-name>
@@ -22180,188 +22378,1139 @@
 	<channel id="浙江公共新闻">
 		<display-name lang="zh">浙江公共新闻</display-name>
 	</channel>
-	<programme channel="浙江公共新闻" start="20260612020000 +0800" stop="20260612022000 +0800">
-		<title lang="zh">新闻大直播</title>
+	<programme channel="浙江公共新闻" start="20260612000000 +0800" stop="20260612003100 +0800">
+		<title lang="zh">黄金时间2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612022000 +0800" stop="20260612024000 +0800">
-		<title lang="zh">常青派养生大国医</title>
+	<programme channel="浙江公共新闻" start="20260612003100 +0800" stop="20260612010100 +0800">
+		<title lang="zh">靓丽之窗2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612024000 +0800" stop="20260612042000 +0800">
-		<title lang="zh">看见中国</title>
+	<programme channel="浙江公共新闻" start="20260612010100 +0800" stop="20260612011100 +0800">
+		<title lang="zh">黄金时间2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612042000 +0800" stop="20260612044000 +0800">
-		<title lang="zh">浙江警视</title>
+	<programme channel="浙江公共新闻" start="20260612011100 +0800" stop="20260612014100 +0800">
+		<title lang="zh">靓丽之窗2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612044000 +0800" stop="20260612051000 +0800">
-		<title lang="zh">常青派姐妹花幸福里</title>
+	<programme channel="浙江公共新闻" start="20260612014100 +0800" stop="20260612015100 +0800">
+		<title lang="zh">黄金时间2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612051000 +0800" stop="20260612053000 +0800">
-		<title lang="zh">新闻大直播</title>
+	<programme channel="浙江公共新闻" start="20260612015100 +0800" stop="20260612022100 +0800">
+		<title lang="zh">靓丽之窗2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612053000 +0800" stop="20260612060000 +0800">
-		<title lang="zh">常青派养生大国医</title>
+	<programme channel="浙江公共新闻" start="20260612022100 +0800" stop="20260612023100 +0800">
+		<title lang="zh">黄金时间2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612060000 +0800" stop="20260612065500 +0800">
-		<title lang="zh">看见中国</title>
+	<programme channel="浙江公共新闻" start="20260612023100 +0800" stop="20260612030100 +0800">
+		<title lang="zh">靓丽之窗2026-162</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612065500 +0800" stop="20260612071000 +0800">
-		<title lang="zh">爱上乡村</title>
+	<programme channel="浙江公共新闻" start="20260612030100 +0800" stop="20260612031900 +0800">
+		<title lang="zh">6.11新闻大直播重播版</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612071000 +0800" stop="20260612073000 +0800">
-		<title lang="zh">常青派养生大国医</title>
+	<programme channel="浙江公共新闻" start="20260612031900 +0800" stop="20260612032400 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612073000 +0800" stop="20260612083000 +0800">
-		<title lang="zh">常青派姐妹花幸福里</title>
+	<programme channel="浙江公共新闻" start="20260612032400 +0800" stop="20260612034400 +0800">
+		<title lang="zh">姐妹花幸福里2026-139</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612083000 +0800" stop="20260612093000 +0800">
-		<title lang="zh">老年大学</title>
+	<programme channel="浙江公共新闻" start="20260612034400 +0800" stop="20260612034500 +0800">
+		<title lang="zh">全国征兵宣传片</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612093000 +0800" stop="20260612095000 +0800">
-		<title lang="zh">常青派养生大国医</title>
+	<programme channel="浙江公共新闻" start="20260612034500 +0800" stop="20260612035000 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612095000 +0800" stop="20260612102200 +0800">
-		<title lang="zh">常青派姐妹花幸福里</title>
+	<programme channel="浙江公共新闻" start="20260612035000 +0800" stop="20260612043800 +0800">
+		<title lang="zh">看见中国2025-022</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612102200 +0800" stop="20260612120000 +0800">
-		<title lang="zh">哈喽美好家</title>
+	<programme channel="浙江公共新闻" start="20260612043800 +0800" stop="20260612045600 +0800">
+		<title lang="zh">6.11新闻大直播重播版</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612120000 +0800" stop="20260612124500 +0800">
-		<title lang="zh">新闻大直播</title>
+	<programme channel="浙江公共新闻" start="20260612045600 +0800" stop="20260612051800 +0800">
+		<title lang="zh">6.11浙江警视</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612124500 +0800" stop="20260612131000 +0800">
-		<title lang="zh">爱上乡村</title>
+	<programme channel="浙江公共新闻" start="20260612051800 +0800" stop="20260612052100 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612131000 +0800" stop="20260612134000 +0800">
-		<title lang="zh">美好浙生活品牌推广活动</title>
+	<programme channel="浙江公共新闻" start="20260612052100 +0800" stop="20260612053900 +0800">
+		<title lang="zh">6.11新闻大直播重播版</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612134000 +0800" stop="20260612142000 +0800">
-		<title lang="zh">文化大讲堂,小强悦读会</title>
+	<programme channel="浙江公共新闻" start="20260612053900 +0800" stop="20260612054000 +0800">
+		<title lang="zh">全国征兵宣传片</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612142000 +0800" stop="20260612145000 +0800">
-		<title lang="zh">常青派养生大国医</title>
+	<programme channel="浙江公共新闻" start="20260612054000 +0800" stop="20260612060000 +0800">
+		<title lang="zh">养生大国医2026-116（周一至周五）</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612145000 +0800" stop="20260612153000 +0800">
-		<title lang="zh">常青派姐妹花幸福里</title>
+	<programme channel="浙江公共新闻" start="20260612060000 +0800" stop="20260612064800 +0800">
+		<title lang="zh">看见中国2025-023</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612153000 +0800" stop="20260612160200 +0800">
-		<title lang="zh">哈喽美好家健康版</title>
+	<programme channel="浙江公共新闻" start="20260612064800 +0800" stop="20260612065100 +0800">
+		<title lang="zh">纪录片《江南》MV宣传片1.10止</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612160200 +0800" stop="20260612161400 +0800">
-		<title lang="zh">爱上乡村</title>
+	<programme channel="浙江公共新闻" start="20260612065100 +0800" stop="20260612071100 +0800">
+		<title lang="zh">姐妹花幸福里2026-139</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612161400 +0800" stop="20260612172000 +0800">
-		<title lang="zh">文化大讲堂,小强悦读会</title>
+	<programme channel="浙江公共新闻" start="20260612071100 +0800" stop="20260612073300 +0800">
+		<title lang="zh">6.11浙江警视</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612172000 +0800" stop="20260612180000 +0800">
-		<title lang="zh">常青派养生大国医</title>
+	<programme channel="浙江公共新闻" start="20260612073300 +0800" stop="20260612074500 +0800">
+		<title lang="zh">流动大舞台2026-024</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612180000 +0800" stop="20260612183000 +0800">
-		<title lang="zh">新闻大直播</title>
+	<programme channel="浙江公共新闻" start="20260612074500 +0800" stop="20260612074600 +0800">
+		<title lang="zh">1.1公共白天广告1</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612183000 +0800" stop="20260612190000 +0800">
-		<title lang="zh">浙江警视</title>
+	<programme channel="浙江公共新闻" start="20260612074600 +0800" stop="20260612080600 +0800">
+		<title lang="zh">姐妹花幸福里2026-139</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612190000 +0800" stop="20260612195000 +0800">
-		<title lang="zh">常青派姐妹花幸福里</title>
+	<programme channel="浙江公共新闻" start="20260612080600 +0800" stop="20260612080900 +0800">
+		<title lang="zh">5.30藏文堂</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612195000 +0800" stop="20260612200000 +0800">
-		<title lang="zh">体育最前线</title>
+	<programme channel="浙江公共新闻" start="20260612080900 +0800" stop="20260612081000 +0800">
+		<title lang="zh">6.8公共白天广告2</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612200000 +0800" stop="20260612203000 +0800">
-		<title lang="zh">看见中国</title>
+	<programme channel="浙江公共新闻" start="20260612081000 +0800" stop="20260612083000 +0800">
+		<title lang="zh">养生大国医2026-116（周一至周五）</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612203000 +0800" stop="20260612210000 +0800">
-		<title lang="zh">党建好声音</title>
+	<programme channel="浙江公共新闻" start="20260612083000 +0800" stop="20260612090000 +0800">
+		<title lang="zh">浙江老年电视大学之小收纳大学问2026-014</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612210000 +0800" stop="20260612212500 +0800">
-		<title lang="zh">浙江新闻联播</title>
+	<programme channel="浙江公共新闻" start="20260612090000 +0800" stop="20260612093000 +0800">
+		<title lang="zh">浙江老年电视大学2026-014（茶文化与茶健康）</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612212500 +0800" stop="20260612214500 +0800">
-		<title lang="zh">新闻大直播</title>
+	<programme channel="浙江公共新闻" start="20260612093000 +0800" stop="20260612101000 +0800">
+		<title lang="zh">哈喽美好家2026-008（引流篇）</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612214500 +0800" stop="20260612220000 +0800">
-		<title lang="zh">爱上乡村</title>
+	<programme channel="浙江公共新闻" start="20260612101000 +0800" stop="20260612101600 +0800">
+		<title lang="zh">6.5哈喽美好家健康生活A版</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612220000 +0800" stop="20260612235900 +0800">
-		<title lang="zh">英语节目</title>
+	<programme channel="浙江公共新闻" start="20260612101600 +0800" stop="20260612101600 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
 	</programme>
-	<programme channel="浙江公共新闻" start="20260612235900 +0800" stop="20260612020000 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="浙江公共新闻" start="20260612101600 +0800" stop="20260612101700 +0800">
+		<title lang="zh">1.1公共白天广告3</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612101700 +0800" stop="20260612103900 +0800">
+		<title lang="zh">6.11浙江警视</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612103900 +0800" stop="20260612104000 +0800">
+		<title lang="zh">1.1公共白天广告4</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612104000 +0800" stop="20260612111000 +0800">
+		<title lang="zh">6.9美好浙生活品牌推广翡翠展</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612111000 +0800" stop="20260612111600 +0800">
+		<title lang="zh">6.5哈喽美好家健康生活B版</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612111600 +0800" stop="20260612112100 +0800">
+		<title lang="zh">姐妹花幸福里2026-139</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612112100 +0800" stop="20260612113700 +0800">
+		<title lang="zh">1.1公共白天广告5</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612113700 +0800" stop="20260612114000 +0800">
+		<title lang="zh">5.30藏文堂</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612114000 +0800" stop="20260612120000 +0800">
+		<title lang="zh">养生大国医2026-116（周一至周五）</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612120000 +0800" stop="20260612120400 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612120400 +0800" stop="20260612120500 +0800">
+		<title lang="zh">新时代公民家庭美德宣传片2.28止</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612120500 +0800" stop="20260612120500 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612120500 +0800" stop="20260612122300 +0800">
+		<title lang="zh">6.11新闻大直播重播版</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612122300 +0800" stop="20260612122900 +0800">
+		<title lang="zh">6.5哈喽美好家健康生活A版</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612122900 +0800" stop="20260612123000 +0800">
+		<title lang="zh">1.1公共白天广告6</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612123000 +0800" stop="20260612124200 +0800">
+		<title lang="zh">流动大舞台2026-024</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612124200 +0800" stop="20260612132200 +0800">
+		<title lang="zh">哈喽美好家2026-008（引流篇）</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612132200 +0800" stop="20260612134400 +0800">
+		<title lang="zh">6.11浙江警视</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612134400 +0800" stop="20260612140400 +0800">
+		<title lang="zh">姐妹花幸福里2026-139</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612140400 +0800" stop="20260612142400 +0800">
+		<title lang="zh">养生大国医2026-116（周一至周五）</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612142400 +0800" stop="20260612142500 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612142500 +0800" stop="20260612142500 +0800">
+		<title lang="zh">1.1公共白天广告7</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612142500 +0800" stop="20260612144300 +0800">
+		<title lang="zh">6.11新闻大直播重播版</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612144300 +0800" stop="20260612145500 +0800">
+		<title lang="zh">流动大舞台2026-024</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612145500 +0800" stop="20260612153500 +0800">
+		<title lang="zh">哈喽美好家2026-008（引流篇）</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612153500 +0800" stop="20260612154000 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612154000 +0800" stop="20260612160000 +0800">
+		<title lang="zh">姐妹花幸福里2026-139</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612160000 +0800" stop="20260612162000 +0800">
+		<title lang="zh">养生大国医2026-116（周一至周五）</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612162000 +0800" stop="20260612162100 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612162100 +0800" stop="20260612170900 +0800">
+		<title lang="zh">看见中国2025-023</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612170900 +0800" stop="20260612170900 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612170900 +0800" stop="20260612173100 +0800">
+		<title lang="zh">6.11浙江警视</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612173100 +0800" stop="20260612173400 +0800">
+		<title lang="zh">5.30藏文堂</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612173400 +0800" stop="20260612173500 +0800">
+		<title lang="zh">1.1公共白天广告9</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612173500 +0800" stop="20260612175500 +0800">
+		<title lang="zh">养生大国医2026-117（周一至周五）</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612175500 +0800" stop="20260612175800 +0800">
+		<title lang="zh">5.30藏文堂</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612175800 +0800" stop="20260612180000 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612180000 +0800" stop="20260612182800 +0800">
+		<title lang="zh">直播新闻大直播</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612182800 +0800" stop="20260612182900 +0800">
+		<title lang="zh">奔跑吧14宣传片（4）7.10止</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612182900 +0800" stop="20260612183000 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612183000 +0800" stop="20260612185200 +0800">
+		<title lang="zh">6.12浙江警视</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612185200 +0800" stop="20260612185300 +0800">
+		<title lang="zh">1.1公共晚间广告1</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612185300 +0800" stop="20260612190500 +0800">
+		<title lang="zh">跟着档案去旅行2026-024</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612190500 +0800" stop="20260612190500 +0800">
+		<title lang="zh">1.1公共晚间广告2</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612190500 +0800" stop="20260612190600 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612190600 +0800" stop="20260612190600 +0800">
+		<title lang="zh">1.1公共晚间广告3</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612190600 +0800" stop="20260612192600 +0800">
+		<title lang="zh">姐妹花幸福里2026-140</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612192600 +0800" stop="20260612192700 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612192700 +0800" stop="20260612193200 +0800">
+		<title lang="zh">体育最前线（公共）2026-163</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612193200 +0800" stop="20260612193700 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612193700 +0800" stop="20260612193800 +0800">
+		<title lang="zh">奔跑吧14宣传片（4）7.10止</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612193800 +0800" stop="20260612195800 +0800">
+		<title lang="zh">养生大国医2026-117（周一至周五）</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612195800 +0800" stop="20260612200300 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612200300 +0800" stop="20260612205100 +0800">
+		<title lang="zh">看见中国2025-023</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612205100 +0800" stop="20260612205200 +0800">
+		<title lang="zh">奔跑吧14宣传片（4）7.10止</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612205200 +0800" stop="20260612205700 +0800">
+		<title lang="zh">体育最前线（公共）2026-163</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612205700 +0800" stop="20260612205900 +0800">
+		<title lang="zh">视界革新公益宣传片</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612205900 +0800" stop="20260612210000 +0800">
+		<title lang="zh">1.5公共晚间广告10</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612210000 +0800" stop="20260612212100 +0800">
+		<title lang="zh">6.12浙江新闻联播</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612212100 +0800" stop="20260612212100 +0800">
+		<title lang="zh">6.2翡翠文化传承宣传片40秒</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612212100 +0800" stop="20260612212200 +0800">
+		<title lang="zh">1.1公共晚间广告11</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612212200 +0800" stop="20260612212700 +0800">
+		<title lang="zh">固定垫片5分钟</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612212700 +0800" stop="20260612212900 +0800">
+		<title lang="zh">固定垫片2分钟</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612212900 +0800" stop="20260612214700 +0800">
+		<title lang="zh">6.12新闻大直播重播版</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612214700 +0800" stop="20260612214700 +0800">
+		<title lang="zh">1.1公共晚间广告12</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612214700 +0800" stop="20260612215900 +0800">
+		<title lang="zh">跟着档案去旅行2026-024</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612215900 +0800" stop="20260612220000 +0800">
+		<title lang="zh">奔跑吧14宣传片（3）7.10止</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612220000 +0800" stop="20260612221000 +0800">
+		<title lang="zh">黄金时间2026-163</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612221000 +0800" stop="20260612224000 +0800">
+		<title lang="zh">靓丽之窗2026-163</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612224000 +0800" stop="20260612225000 +0800">
+		<title lang="zh">黄金时间2026-163</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612225000 +0800" stop="20260612232000 +0800">
+		<title lang="zh">靓丽之窗2026-163</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612232000 +0800" stop="20260612233000 +0800">
+		<title lang="zh">黄金时间2026-163</title>
+	</programme>
+	<programme channel="浙江公共新闻" start="20260612233000 +0800" stop="20260612235900 +0800">
+		<title lang="zh">靓丽之窗2026-163</title>
+	</programme>
+	<channel id="浙江国际">
+		<display-name lang="zh">浙江国际</display-name>
+	</channel>
+	<programme channel="浙江国际" start="20260612000000 +0800" stop="20260612000100 +0800">
+		<title lang="zh">串编时段包装2026-06-12第01段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612000100 +0800" stop="20260612002400 +0800">
+		<title lang="zh">《阿优之神奇萝卜（1-52）（海外版权）》23（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612002400 +0800" stop="20260612002500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第02段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612002500 +0800" stop="20260612005500 +0800">
+		<title lang="zh">靓丽之窗2026-156</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612005500 +0800" stop="20260612010500 +0800">
+		<title lang="zh">黄金时间2026-162</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612010500 +0800" stop="20260612011500 +0800">
+		<title lang="zh">垫片2025-001</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612011500 +0800" stop="20260612011900 +0800">
+		<title lang="zh">串编时段包装2026-06-12第06段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612011900 +0800" stop="20260612012900 +0800">
+		<title lang="zh">黄金时间2026-162</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612012900 +0800" stop="20260612013000 +0800">
+		<title lang="zh">串编时段包装2026-06-12第20段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612013000 +0800" stop="20260612013800 +0800">
+		<title lang="zh">华人天地2026-104</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612013800 +0800" stop="20260612014600 +0800">
+		<title lang="zh">华人天地2026-105</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612014600 +0800" stop="20260612014900 +0800">
+		<title lang="zh">串编时段包装2026-06-12第07段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612014900 +0800" stop="20260612023400 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》6（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612023400 +0800" stop="20260612023700 +0800">
+		<title lang="zh">串编时段包装2026-06-12第08段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612023700 +0800" stop="20260612032200 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》7（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612032200 +0800" stop="20260612032500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第09段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612032500 +0800" stop="20260612041000 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》8（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612041000 +0800" stop="20260612041300 +0800">
+		<title lang="zh">串编时段包装2026-06-12第15段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612041300 +0800" stop="20260612053700 +0800">
+		<title lang="zh">精编综艺二2026-003（奔跑吧天路篇）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612053700 +0800" stop="20260612054000 +0800">
+		<title lang="zh">串编时段包装2026-06-12第12段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612054000 +0800" stop="20260612062500 +0800">
+		<title lang="zh">《我的后半生》33（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612062500 +0800" stop="20260612062800 +0800">
+		<title lang="zh">串编时段包装2026-06-12第13段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612062800 +0800" stop="20260612071200 +0800">
+		<title lang="zh">《我的后半生》34（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612071200 +0800" stop="20260612071500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第14段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612071500 +0800" stop="20260612080000 +0800">
+		<title lang="zh">《我的后半生》35（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612080000 +0800" stop="20260612080100 +0800">
+		<title lang="zh">串编时段包装2026-06-12第16段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612080100 +0800" stop="20260612082400 +0800">
+		<title lang="zh">《阿优之神奇萝卜（1-52）（海外版权）》23（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612082400 +0800" stop="20260612082500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第02段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612082500 +0800" stop="20260612085500 +0800">
+		<title lang="zh">靓丽之窗2026-156</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612085500 +0800" stop="20260612090500 +0800">
+		<title lang="zh">黄金时间2026-162</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612090500 +0800" stop="20260612091500 +0800">
+		<title lang="zh">垫片2025-001</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612091500 +0800" stop="20260612091900 +0800">
+		<title lang="zh">串编时段包装2026-06-12第06段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612091900 +0800" stop="20260612092900 +0800">
+		<title lang="zh">黄金时间2026-162</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612092900 +0800" stop="20260612093000 +0800">
+		<title lang="zh">串编时段包装2026-06-12第20段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612093000 +0800" stop="20260612093800 +0800">
+		<title lang="zh">华人天地2026-104</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612093800 +0800" stop="20260612094600 +0800">
+		<title lang="zh">华人天地2026-105</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612094600 +0800" stop="20260612094900 +0800">
+		<title lang="zh">串编时段包装2026-06-12第07段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612094900 +0800" stop="20260612103400 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》6（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612103400 +0800" stop="20260612103700 +0800">
+		<title lang="zh">串编时段包装2026-06-12第08段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612103700 +0800" stop="20260612112200 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》7（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612112200 +0800" stop="20260612112500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第09段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612112500 +0800" stop="20260612121000 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》8（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612121000 +0800" stop="20260612121300 +0800">
+		<title lang="zh">串编时段包装2026-06-12第15段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612121300 +0800" stop="20260612133700 +0800">
+		<title lang="zh">精编综艺二2026-003（奔跑吧天路篇）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612133700 +0800" stop="20260612134000 +0800">
+		<title lang="zh">串编时段包装2026-06-12第12段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612134000 +0800" stop="20260612142500 +0800">
+		<title lang="zh">《我的后半生》33（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612142500 +0800" stop="20260612142800 +0800">
+		<title lang="zh">串编时段包装2026-06-12第13段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612142800 +0800" stop="20260612151200 +0800">
+		<title lang="zh">《我的后半生》34（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612151200 +0800" stop="20260612151500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第14段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612151500 +0800" stop="20260612160000 +0800">
+		<title lang="zh">《我的后半生》35（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612160000 +0800" stop="20260612160100 +0800">
+		<title lang="zh">串编时段包装2026-06-12第16段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612160100 +0800" stop="20260612162400 +0800">
+		<title lang="zh">《阿优之神奇萝卜（1-52）（海外版权）》23（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612162400 +0800" stop="20260612162500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第02段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612162500 +0800" stop="20260612165500 +0800">
+		<title lang="zh">靓丽之窗2026-156</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612165500 +0800" stop="20260612170500 +0800">
+		<title lang="zh">黄金时间2026-162</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612170500 +0800" stop="20260612171500 +0800">
+		<title lang="zh">垫片2025-001</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612171500 +0800" stop="20260612171900 +0800">
+		<title lang="zh">串编时段包装2026-06-12第06段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612171900 +0800" stop="20260612172900 +0800">
+		<title lang="zh">黄金时间2026-162</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612172900 +0800" stop="20260612173000 +0800">
+		<title lang="zh">串编时段包装2026-06-12第20段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612173000 +0800" stop="20260612173800 +0800">
+		<title lang="zh">华人天地2026-104</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612173800 +0800" stop="20260612174600 +0800">
+		<title lang="zh">华人天地2026-105</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612174600 +0800" stop="20260612174900 +0800">
+		<title lang="zh">串编时段包装2026-06-12第07段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612174900 +0800" stop="20260612183400 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》6（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612183400 +0800" stop="20260612183700 +0800">
+		<title lang="zh">串编时段包装2026-06-12第08段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612183700 +0800" stop="20260612192200 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》7（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612192200 +0800" stop="20260612192500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第09段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612192500 +0800" stop="20260612201000 +0800">
+		<title lang="zh">《大奉打更人（海外版权）》8（海外播出版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612201000 +0800" stop="20260612201300 +0800">
+		<title lang="zh">串编时段包装2026-06-12第15段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612201300 +0800" stop="20260612213700 +0800">
+		<title lang="zh">精编综艺二2026-003（奔跑吧天路篇）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612213700 +0800" stop="20260612214000 +0800">
+		<title lang="zh">串编时段包装2026-06-12第12段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612214000 +0800" stop="20260612222500 +0800">
+		<title lang="zh">《我的后半生》33（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612222500 +0800" stop="20260612222800 +0800">
+		<title lang="zh">串编时段包装2026-06-12第13段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612222800 +0800" stop="20260612231200 +0800">
+		<title lang="zh">《我的后半生》34（海外版）</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612231200 +0800" stop="20260612231500 +0800">
+		<title lang="zh">串编时段包装2026-06-12第14段</title>
+	</programme>
+	<programme channel="浙江国际" start="20260612231500 +0800" stop="20260612235900 +0800">
+		<title lang="zh">《我的后半生》35（海外版）</title>
 	</programme>
 	<channel id="浙江少儿">
 		<display-name lang="zh">浙江少儿</display-name>
 	</channel>
-	<programme channel="浙江少儿" start="20260612000000 +0800" stop="20260612010000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612000000 +0800" stop="20260612001600 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612010000 +0800" stop="20260612020000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612001600 +0800" stop="20260612002900 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》26（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612020000 +0800" stop="20260612030000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612002900 +0800" stop="20260612003400 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612030000 +0800" stop="20260612040000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612003400 +0800" stop="20260612004700 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》27（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612040000 +0800" stop="20260612050000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612004700 +0800" stop="20260612005100 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612050000 +0800" stop="20260612060000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612005100 +0800" stop="20260612010500 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》12（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612060000 +0800" stop="20260612070000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612010500 +0800" stop="20260612011000 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612070000 +0800" stop="20260612080000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612011000 +0800" stop="20260612012400 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》13（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612080000 +0800" stop="20260612090000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612012400 +0800" stop="20260612012800 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612090000 +0800" stop="20260612100000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612012800 +0800" stop="20260612014200 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》14（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612100000 +0800" stop="20260612110000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612014200 +0800" stop="20260612014700 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612110000 +0800" stop="20260612120000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612014700 +0800" stop="20260612020100 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》15（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612120000 +0800" stop="20260612130000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612020100 +0800" stop="20260612020500 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612130000 +0800" stop="20260612140000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612020500 +0800" stop="20260612022000 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》16（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612140000 +0800" stop="20260612150000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612022000 +0800" stop="20260612022400 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612150000 +0800" stop="20260612160000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612022400 +0800" stop="20260612023700 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》24（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612160000 +0800" stop="20260612170000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612023700 +0800" stop="20260612024100 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612170000 +0800" stop="20260612180000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612024100 +0800" stop="20260612025400 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》25（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612180000 +0800" stop="20260612190000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612025400 +0800" stop="20260612025900 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612190000 +0800" stop="20260612200000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612025900 +0800" stop="20260612031200 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》26（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612200000 +0800" stop="20260612210000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612031200 +0800" stop="20260612031600 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612210000 +0800" stop="20260612220000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612031600 +0800" stop="20260612032900 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》27（少儿高清版）</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612220000 +0800" stop="20260612230000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612032900 +0800" stop="20260612033300 +0800">
+		<title lang="zh">公益广告5月21日版</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260612230000 +0800" stop="20260612000000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="浙江少儿" start="20260612033300 +0800" stop="20260612034800 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》12（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612034800 +0800" stop="20260612035200 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612035200 +0800" stop="20260612040600 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》13（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612040600 +0800" stop="20260612041000 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612041000 +0800" stop="20260612042500 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》14（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612042500 +0800" stop="20260612042900 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612042900 +0800" stop="20260612044300 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》15（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612044300 +0800" stop="20260612044800 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612044800 +0800" stop="20260612050200 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》16（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612050200 +0800" stop="20260612050700 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612050700 +0800" stop="20260612052000 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》24（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612052000 +0800" stop="20260612053200 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》25（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612053200 +0800" stop="20260612054500 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城1棋兽传奇》》26（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612054500 +0800" stop="20260612060000 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》13（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612060000 +0800" stop="20260612060100 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612060100 +0800" stop="20260612060500 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612060500 +0800" stop="20260612060600 +0800">
+		<title lang="zh">集团公益广告10.23版6</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612060600 +0800" stop="20260612061900 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》1（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612061900 +0800" stop="20260612062000 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612062000 +0800" stop="20260612063300 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》2（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612063300 +0800" stop="20260612063500 +0800">
+		<title lang="zh">少儿宣传片22026-001（2026中国蓝研学宣传片）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612063500 +0800" stop="20260612063700 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612063700 +0800" stop="20260612065000 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》3（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612065000 +0800" stop="20260612065100 +0800">
+		<title lang="zh">超高清公益广告2.13版1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612065100 +0800" stop="20260612065300 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612065300 +0800" stop="20260612070600 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》4（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612070600 +0800" stop="20260612070700 +0800">
+		<title lang="zh">少儿频道节目32025-001（《文明观赛》公益广告）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612070700 +0800" stop="20260612070900 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612070900 +0800" stop="20260612072200 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》5（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612072200 +0800" stop="20260612072300 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612072300 +0800" stop="20260612075300 +0800">
+		<title lang="zh">《驻站》41（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612075300 +0800" stop="20260612075600 +0800">
+		<title lang="zh">集团公益广告10.23版4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612075600 +0800" stop="20260612075700 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612075700 +0800" stop="20260612081200 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》15（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612081200 +0800" stop="20260612081300 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612081300 +0800" stop="20260612082800 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》16（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612082800 +0800" stop="20260612082900 +0800">
+		<title lang="zh">奔跑吧14宣4.24-7.10版1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612082900 +0800" stop="20260612083000 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612083000 +0800" stop="20260612084500 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》17（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612084500 +0800" stop="20260612084600 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612084600 +0800" stop="20260612084800 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612084800 +0800" stop="20260612090200 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》18（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612090200 +0800" stop="20260612090400 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612090400 +0800" stop="20260612091800 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》19（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612091800 +0800" stop="20260612091900 +0800">
+		<title lang="zh">集团公益广告10.23版6</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612091900 +0800" stop="20260612092000 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612092000 +0800" stop="20260612093300 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》1（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612093300 +0800" stop="20260612093500 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612093500 +0800" stop="20260612094800 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》2（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612094800 +0800" stop="20260612094900 +0800">
+		<title lang="zh">超高清公益广告2.13版2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612094900 +0800" stop="20260612095000 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612095000 +0800" stop="20260612100300 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》3（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612100300 +0800" stop="20260612100400 +0800">
+		<title lang="zh">集团公益广告10.23版5</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612100400 +0800" stop="20260612100600 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612100600 +0800" stop="20260612103600 +0800">
+		<title lang="zh">《驻站》42（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612103600 +0800" stop="20260612103800 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612103800 +0800" stop="20260612110800 +0800">
+		<title lang="zh">《驻站》43（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612110800 +0800" stop="20260612111000 +0800">
+		<title lang="zh">少儿宣传片22026-001（2026中国蓝研学宣传片）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612111000 +0800" stop="20260612111100 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612111100 +0800" stop="20260612114100 +0800">
+		<title lang="zh">《驻站》44（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612114100 +0800" stop="20260612114300 +0800">
+		<title lang="zh">少儿宣传片2025-001（《一起去看外面的世界》公益广告）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612114300 +0800" stop="20260612114400 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612114400 +0800" stop="20260612121400 +0800">
+		<title lang="zh">《驻站》45（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612121400 +0800" stop="20260612121600 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612121600 +0800" stop="20260612121800 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612121800 +0800" stop="20260612123800 +0800">
+		<title lang="zh">6.11S浙江少儿新闻</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612123800 +0800" stop="20260612123900 +0800">
+		<title lang="zh">集团公益广告10.23版5</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612123900 +0800" stop="20260612124000 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612124000 +0800" stop="20260612125500 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》16（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612125500 +0800" stop="20260612125600 +0800">
+		<title lang="zh">奔跑吧14宣4.24-7.10版2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612125600 +0800" stop="20260612125800 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612125800 +0800" stop="20260612131200 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》17（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612131200 +0800" stop="20260612131300 +0800">
+		<title lang="zh">超高清公益广告2.13版3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612131300 +0800" stop="20260612131500 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612131500 +0800" stop="20260612132900 +0800">
+		<title lang="zh">《《少年师爷之稽山寻师》》18（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612132900 +0800" stop="20260612133000 +0800">
+		<title lang="zh">奥运冠军禁毒反兴奋剂女子排球篇</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612133000 +0800" stop="20260612133100 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612133100 +0800" stop="20260612140100 +0800">
+		<title lang="zh">《驻站》46（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612140100 +0800" stop="20260612140300 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612140300 +0800" stop="20260612140500 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612140500 +0800" stop="20260612143500 +0800">
+		<title lang="zh">《驻站》47（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612143500 +0800" stop="20260612143600 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612143600 +0800" stop="20260612150600 +0800">
+		<title lang="zh">《驻站》48（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612150600 +0800" stop="20260612150800 +0800">
+		<title lang="zh">少儿宣传片22026-001（2026中国蓝研学宣传片）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612150800 +0800" stop="20260612151000 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612151000 +0800" stop="20260612154000 +0800">
+		<title lang="zh">《驻站》49（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612154000 +0800" stop="20260612154100 +0800">
+		<title lang="zh">集团公益广告10.23版6</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612154100 +0800" stop="20260612154200 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612154200 +0800" stop="20260612161200 +0800">
+		<title lang="zh">《驻站》50（高清少儿版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612161200 +0800" stop="20260612161400 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612161400 +0800" stop="20260612161500 +0800">
+		<title lang="zh">少儿宣传片2025-001（《一起去看外面的世界》公益广告）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612161500 +0800" stop="20260612161700 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612161700 +0800" stop="20260612162900 +0800">
+		<title lang="zh">《《梦幻镇之成长日记》》85（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612162900 +0800" stop="20260612163000 +0800">
+		<title lang="zh">奔跑吧14宣4.24-7.10版3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612163000 +0800" stop="20260612163200 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612163200 +0800" stop="20260612164400 +0800">
+		<title lang="zh">《《梦幻镇之成长日记》》86（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612164400 +0800" stop="20260612164600 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612164600 +0800" stop="20260612165100 +0800">
+		<title lang="zh">《《瑞奇宝宝幼儿园之旅》》45（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612165100 +0800" stop="20260612165200 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612165200 +0800" stop="20260612165400 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612165400 +0800" stop="20260612165900 +0800">
+		<title lang="zh">《《瑞奇宝宝幼儿园之旅》》46（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612165900 +0800" stop="20260612170100 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612170100 +0800" stop="20260612170600 +0800">
+		<title lang="zh">《《瑞奇宝宝幼儿园之旅》》47（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612170600 +0800" stop="20260612170700 +0800">
+		<title lang="zh">珍爱生命远离毒品</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612170700 +0800" stop="20260612170900 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612170900 +0800" stop="20260612172200 +0800">
+		<title lang="zh">《《新大头儿子和小头爸爸带你看中国》（第二季）》9（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612172200 +0800" stop="20260612172300 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612172300 +0800" stop="20260612173600 +0800">
+		<title lang="zh">《《新大头儿子和小头爸爸带你看中国》（第二季）》10（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612173600 +0800" stop="20260612173800 +0800">
+		<title lang="zh">少儿宣传片22026-001（2026中国蓝研学宣传片）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612173800 +0800" stop="20260612174000 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612174000 +0800" stop="20260612174700 +0800">
+		<title lang="zh">《《梦宝奇游记》》25（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612174700 +0800" stop="20260612174900 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612174900 +0800" stop="20260612175000 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612175000 +0800" stop="20260612175700 +0800">
+		<title lang="zh">《《梦宝奇游记》》26（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612175700 +0800" stop="20260612175900 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612175900 +0800" stop="20260612180700 +0800">
+		<title lang="zh">《奶龙之奇妙冒险》30（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612180700 +0800" stop="20260612180800 +0800">
+		<title lang="zh">建行高考志愿填报宣6.9-6.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612180800 +0800" stop="20260612181000 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612181000 +0800" stop="20260612181800 +0800">
+		<title lang="zh">《奶龙之奇妙冒险》31（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612181800 +0800" stop="20260612182000 +0800">
+		<title lang="zh">超高清公益广告2.13版4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612182000 +0800" stop="20260612182200 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612182200 +0800" stop="20260612182800 +0800">
+		<title lang="zh">《《毛毛镇海岛大行动》》37（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612182800 +0800" stop="20260612183000 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612183000 +0800" stop="20260612183700 +0800">
+		<title lang="zh">《《毛毛镇海岛大行动》》38（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612183700 +0800" stop="20260612183900 +0800">
+		<title lang="zh">少儿宣传片22026-001（2026中国蓝研学宣传片）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612183900 +0800" stop="20260612184000 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612184000 +0800" stop="20260612184700 +0800">
+		<title lang="zh">《《毛毛镇海岛大行动》》39（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612184700 +0800" stop="20260612184800 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612184800 +0800" stop="20260612185500 +0800">
+		<title lang="zh">《《毛毛镇海岛大行动》》40（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612185500 +0800" stop="20260612185500 +0800">
+		<title lang="zh">建行高考志愿填报宣6.9-6.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612185500 +0800" stop="20260612185700 +0800">
+		<title lang="zh">少儿宣传片22026-001（2026中国蓝研学宣传片）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612185700 +0800" stop="20260612185800 +0800">
+		<title lang="zh">建行硬广6.9-6.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612185800 +0800" stop="20260612190000 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612190000 +0800" stop="20260612195300 +0800">
+		<title lang="zh">少儿频道晚会32026-008（2026浙江少儿六一晚会）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612195300 +0800" stop="20260612195400 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612195400 +0800" stop="20260612200600 +0800">
+		<title lang="zh">《《乐比大冒险第一季》》80（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612200600 +0800" stop="20260612200800 +0800">
+		<title lang="zh">超高清公益广告2.13版5</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612200800 +0800" stop="20260612200900 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612200900 +0800" stop="20260612201400 +0800">
+		<title lang="zh">《《乐比大冒险第一季》》81（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612201400 +0800" stop="20260612202200 +0800">
+		<title lang="zh">建行高考志愿填报宣6.9-6.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612202200 +0800" stop="20260612202400 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612202400 +0800" stop="20260612202500 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612202500 +0800" stop="20260612203000 +0800">
+		<title lang="zh">《《乐比大冒险第一季》》82（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612203000 +0800" stop="20260612203800 +0800">
+		<title lang="zh">建行硬广6.9-6.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612203800 +0800" stop="20260612203900 +0800">
+		<title lang="zh">奔跑吧14宣4.24-7.10版4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612203900 +0800" stop="20260612204100 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612204100 +0800" stop="20260612205400 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》1（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612205400 +0800" stop="20260612205600 +0800">
+		<title lang="zh">少儿宣传片22026-001（2026中国蓝研学宣传片）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612205600 +0800" stop="20260612205700 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612205700 +0800" stop="20260612210200 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》2（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612210200 +0800" stop="20260612211100 +0800">
+		<title lang="zh">建行高考志愿填报宣6.9-6.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612211100 +0800" stop="20260612211300 +0800">
+		<title lang="zh">国乐无双8.8止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612211300 +0800" stop="20260612211400 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612211400 +0800" stop="20260612212700 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》3（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612212700 +0800" stop="20260612213000 +0800">
+		<title lang="zh">禁毒公益广告7.2版8</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612213000 +0800" stop="20260612213100 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612213100 +0800" stop="20260612214400 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》4（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612214400 +0800" stop="20260612214600 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612214600 +0800" stop="20260612215900 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》5（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612215900 +0800" stop="20260612220100 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612220100 +0800" stop="20260612223100 +0800">
+		<title lang="zh">《我的助理不简单》49（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612223100 +0800" stop="20260612223200 +0800">
+		<title lang="zh">奔跑吧14宣4.24-7.10版2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612223200 +0800" stop="20260612223400 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612223400 +0800" stop="20260612230400 +0800">
+		<title lang="zh">《我的助理不简单》50（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612230400 +0800" stop="20260612230500 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612230500 +0800" stop="20260612233500 +0800">
+		<title lang="zh">《我的助理不简单》51（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612233500 +0800" stop="20260612234000 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612234000 +0800" stop="20260612235300 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》1（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612235300 +0800" stop="20260612235700 +0800">
+		<title lang="zh">公益广告5月21日版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20260612235700 +0800" stop="20260612235900 +0800">
+		<title lang="zh">《《开心超人联盟之勇敢之城2超人计划》》2（少儿高清版）</title>
 	</programme>
 	<channel id="浙江教科影视">
 		<display-name lang="zh">浙江教科影视</display-name>
@@ -23593,101 +24742,908 @@
 	<programme channel="浙江教育" start="20260612235400 +0800" stop="20260612235900 +0800">
 		<title lang="zh">姐妹花幸福里2026-140</title>
 	</programme>
+	<channel id="浙江数码时代">
+		<display-name lang="zh">浙江数码时代</display-name>
+	</channel>
+	<programme channel="浙江数码时代" start="20260612000000 +0800" stop="20260612080000 +0800">
+		<title lang="zh">检修</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612080000 +0800" stop="20260612083000 +0800">
+		<title lang="zh">红色档案（之江）2024-055</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612083000 +0800" stop="20260612091800 +0800">
+		<title lang="zh">看见中国2025-022</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612091800 +0800" stop="20260612093000 +0800">
+		<title lang="zh">之江同心2026-023</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612093000 +0800" stop="20260612094000 +0800">
+		<title lang="zh">6.7时代先锋</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612094000 +0800" stop="20260612100000 +0800">
+		<title lang="zh">先锋视界2026-162</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612100000 +0800" stop="20260612104500 +0800">
+		<title lang="zh">之江之窗2025-090</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612104500 +0800" stop="20260612110000 +0800">
+		<title lang="zh">之江先锋（之江）2026-139</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612110000 +0800" stop="20260612110000 +0800">
+		<title lang="zh">陪伴简单公益宣传片</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612110000 +0800" stop="20260612110200 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之别让药变毒</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612110200 +0800" stop="20260612113200 +0800">
+		<title lang="zh">红色档案（之江）2024-055</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612113200 +0800" stop="20260612113500 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之电子烟</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612113500 +0800" stop="20260612115500 +0800">
+		<title lang="zh">先锋视界2026-162</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612115500 +0800" stop="20260612115800 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之骑手独白</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612115800 +0800" stop="20260612124300 +0800">
+		<title lang="zh">之江之窗2025-091</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612124300 +0800" stop="20260612124700 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之深渊</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612124700 +0800" stop="20260612125900 +0800">
+		<title lang="zh">之江同心2026-023</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612125900 +0800" stop="20260612132900 +0800">
+		<title lang="zh">红色档案（之江）2024-055</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612132900 +0800" stop="20260612133400 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612133400 +0800" stop="20260612142200 +0800">
+		<title lang="zh">看见中国2025-023</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612142200 +0800" stop="20260612142600 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之深渊</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612142600 +0800" stop="20260612143600 +0800">
+		<title lang="zh">6.7时代先锋</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612143600 +0800" stop="20260612145600 +0800">
+		<title lang="zh">先锋视界2026-162</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612145600 +0800" stop="20260612150000 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之深渊</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612150000 +0800" stop="20260612154500 +0800">
+		<title lang="zh">之江之窗2025-090</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612154500 +0800" stop="20260612160000 +0800">
+		<title lang="zh">之江先锋（之江）2026-139</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612160000 +0800" stop="20260612160300 +0800">
+		<title lang="zh">梦想小镇宣传片</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612160300 +0800" stop="20260612163300 +0800">
+		<title lang="zh">红色档案（之江）2024-055</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612163300 +0800" stop="20260612165300 +0800">
+		<title lang="zh">先锋视界2026-162</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612165300 +0800" stop="20260612165800 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612165800 +0800" stop="20260612174600 +0800">
+		<title lang="zh">看见中国2025-023</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612174600 +0800" stop="20260612175800 +0800">
+		<title lang="zh">之江同心2026-023</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612175800 +0800" stop="20260612180200 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之深渊</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612180200 +0800" stop="20260612184700 +0800">
+		<title lang="zh">之江之窗2025-091</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612184700 +0800" stop="20260612185700 +0800">
+		<title lang="zh">党建播报（之江）2026-066</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612185700 +0800" stop="20260612190000 +0800">
+		<title lang="zh">影像杭州宣传片</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612190000 +0800" stop="20260612193000 +0800">
+		<title lang="zh">红色档案（之江）2024-056</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612193000 +0800" stop="20260612201800 +0800">
+		<title lang="zh">看见中国2025-024</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612201800 +0800" stop="20260612203000 +0800">
+		<title lang="zh">流动大舞台2026-024</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612203000 +0800" stop="20260612204000 +0800">
+		<title lang="zh">党建播报（之江）2026-067</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612204000 +0800" stop="20260612210000 +0800">
+		<title lang="zh">先锋视界2026-163</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612210000 +0800" stop="20260612214500 +0800">
+		<title lang="zh">之江之窗2025-092</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612214500 +0800" stop="20260612220000 +0800">
+		<title lang="zh">之江先锋（之江）2026-140</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612220000 +0800" stop="20260612222800 +0800">
+		<title lang="zh">党建好声音2026-023</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612222800 +0800" stop="20260612223200 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之天赋觉醒</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612223200 +0800" stop="20260612225200 +0800">
+		<title lang="zh">先锋视界2026-163</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612225200 +0800" stop="20260612225300 +0800">
+		<title lang="zh">插入式公益宣传片</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612225300 +0800" stop="20260612234100 +0800">
+		<title lang="zh">看见中国2025-024</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612234100 +0800" stop="20260612234400 +0800">
+		<title lang="zh">禁毒短视频公益宣传片之致命伪装</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612234400 +0800" stop="20260612235600 +0800">
+		<title lang="zh">流动大舞台2026-024</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612235600 +0800" stop="20260612235700 +0800">
+		<title lang="zh">视界革新公益宣传片</title>
+	</programme>
+	<programme channel="浙江数码时代" start="20260612235700 +0800" stop="20260612235900 +0800">
+		<title lang="zh">影像杭州宣传片</title>
+	</programme>
 	<channel id="浙江民生">
 		<display-name lang="zh">浙江民生</display-name>
 	</channel>
-	<programme channel="浙江民生" start="20260612003000 +0800" stop="20260612015000 +0800">
-		<title lang="zh">1818黄金眼</title>
+	<programme channel="浙江民生" start="20260612000000 +0800" stop="20260612003000 +0800">
+		<title lang="zh">人文周刊32025-003（沈泽民）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612003000 +0800" stop="20260612003500 +0800">
+		<title lang="zh">1818黄金眼2026-162（民生版高清）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612003500 +0800" stop="20260612004300 +0800">
+		<title lang="zh">TC-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612004300 +0800" stop="20260612005600 +0800">
+		<title lang="zh">TC-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612005600 +0800" stop="20260612010900 +0800">
+		<title lang="zh">TC-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612010900 +0800" stop="20260612012300 +0800">
+		<title lang="zh">TC-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612012300 +0800" stop="20260612014700 +0800">
+		<title lang="zh">TC-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612014700 +0800" stop="20260612015000 +0800">
+		<title lang="zh">宣传片D（6.1）</title>
 	</programme>
 	<programme channel="浙江民生" start="20260612015000 +0800" stop="20260612023500 +0800">
-		<title lang="zh">金牌赛场</title>
+		<title lang="zh">金牌赛场2026-051（上半场）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612023500 +0800" stop="20260612032500 +0800">
-		<title lang="zh">金牌赛场</title>
+	<programme channel="浙江民生" start="20260612023500 +0800" stop="20260612032000 +0800">
+		<title lang="zh">金牌赛场2026-051（下半场）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612032500 +0800" stop="20260612040500 +0800">
-		<title lang="zh">1818黄金眼</title>
+	<programme channel="浙江民生" start="20260612032000 +0800" stop="20260612032200 +0800">
+		<title lang="zh">宣传片A（6.1）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612032200 +0800" stop="20260612032500 +0800">
+		<title lang="zh">荒野茶宣传片（11.10）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612032500 +0800" stop="20260612033000 +0800">
+		<title lang="zh">1818黄金眼2026-162（公众版高清）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612033000 +0800" stop="20260612033700 +0800">
+		<title lang="zh">TC-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612033700 +0800" stop="20260612034900 +0800">
+		<title lang="zh">TC-7广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612034900 +0800" stop="20260612035600 +0800">
+		<title lang="zh">TC-8广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612035600 +0800" stop="20260612040500 +0800">
+		<title lang="zh">TC-9广告（6.12）</title>
 	</programme>
 	<programme channel="浙江民生" start="20260612040500 +0800" stop="20260612041500 +0800">
-		<title lang="zh">1818黄金屋</title>
+		<title lang="zh">1818黄金屋2026-162（高清版）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612041500 +0800" stop="20260612054800 +0800">
-		<title lang="zh">人文周刊</title>
+	<programme channel="浙江民生" start="20260612041500 +0800" stop="20260612045800 +0800">
+		<title lang="zh">《大海道》5（缩编版）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612054800 +0800" stop="20260612062500 +0800">
-		<title lang="zh">PK大擂台</title>
+	<programme channel="浙江民生" start="20260612045800 +0800" stop="20260612045900 +0800">
+		<title lang="zh">TC-10广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612062500 +0800" stop="20260612065700 +0800">
-		<title lang="zh">PK大擂台</title>
+	<programme channel="浙江民生" start="20260612045900 +0800" stop="20260612054300 +0800">
+		<title lang="zh">《大海道》6（缩编版）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612054300 +0800" stop="20260612054400 +0800">
+		<title lang="zh">宣传片C（6.1）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612054400 +0800" stop="20260612054600 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612054600 +0800" stop="20260612054800 +0800">
+		<title lang="zh">宣传片B（6.1）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612054800 +0800" stop="20260612061300 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-160</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612061300 +0800" stop="20260612062500 +0800">
+		<title lang="zh">MS专题2026-162（华飞A）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612062500 +0800" stop="20260612064500 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-161</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612064500 +0800" stop="20260612065700 +0800">
+		<title lang="zh">MS专题2026-162（华飞B）</title>
 	</programme>
 	<programme channel="浙江民生" start="20260612065700 +0800" stop="20260612070700 +0800">
-		<title lang="zh">中国蓝书画园地</title>
+		<title lang="zh">中国蓝·书画园地2026-001</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612070700 +0800" stop="20260612080000 +0800">
-		<title lang="zh">钱塘老娘舅</title>
+	<programme channel="浙江民生" start="20260612070700 +0800" stop="20260612070900 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612080000 +0800" stop="20260612085600 +0800">
-		<title lang="zh">1818黄金眼</title>
+	<programme channel="浙江民生" start="20260612070900 +0800" stop="20260612071400 +0800">
+		<title lang="zh">钱塘老娘舅2026-162（高清版）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612085600 +0800" stop="20260612101300 +0800">
-		<title lang="zh">PK大擂台</title>
+	<programme channel="浙江民生" start="20260612071400 +0800" stop="20260612072200 +0800">
+		<title lang="zh">TD-1广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612101300 +0800" stop="20260612103100 +0800">
-		<title lang="zh">中国蓝书画园地</title>
+	<programme channel="浙江民生" start="20260612072200 +0800" stop="20260612073500 +0800">
+		<title lang="zh">TD-2广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612103100 +0800" stop="20260612120000 +0800">
-		<title lang="zh">钱塘老娘舅</title>
+	<programme channel="浙江民生" start="20260612073500 +0800" stop="20260612074500 +0800">
+		<title lang="zh">TD-3广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612120000 +0800" stop="20260612132300 +0800">
-		<title lang="zh">1818黄金眼</title>
+	<programme channel="浙江民生" start="20260612074500 +0800" stop="20260612075000 +0800">
+		<title lang="zh">TD-4广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612132300 +0800" stop="20260612134800 +0800">
-		<title lang="zh">我是大赢家</title>
+	<programme channel="浙江民生" start="20260612075000 +0800" stop="20260612080000 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612134800 +0800" stop="20260612151200 +0800">
-		<title lang="zh">PK大擂台</title>
+	<programme channel="浙江民生" start="20260612080000 +0800" stop="20260612080500 +0800">
+		<title lang="zh">1818黄金眼2026-162（公众版高清）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612151200 +0800" stop="20260612155000 +0800">
-		<title lang="zh">PK大擂台</title>
+	<programme channel="浙江民生" start="20260612080500 +0800" stop="20260612081200 +0800">
+		<title lang="zh">TC-6广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612155000 +0800" stop="20260612164500 +0800">
-		<title lang="zh">钱塘老娘舅</title>
+	<programme channel="浙江民生" start="20260612081200 +0800" stop="20260612082400 +0800">
+		<title lang="zh">TC-7广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612164500 +0800" stop="20260612180000 +0800">
-		<title lang="zh">人文周刊</title>
+	<programme channel="浙江民生" start="20260612082400 +0800" stop="20260612083100 +0800">
+		<title lang="zh">TC-8广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612180000 +0800" stop="20260612181800 +0800">
+	<programme channel="浙江民生" start="20260612083100 +0800" stop="20260612084000 +0800">
+		<title lang="zh">TC-9广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612084000 +0800" stop="20260612085000 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612085000 +0800" stop="20260612085400 +0800">
+		<title lang="zh">TD-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612085400 +0800" stop="20260612090300 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-162</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612090300 +0800" stop="20260612091900 +0800">
+		<title lang="zh">颜百岁专题A（6.11）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612091900 +0800" stop="20260612093400 +0800">
+		<title lang="zh">TD-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612093400 +0800" stop="20260612095000 +0800">
+		<title lang="zh">TD-7广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612095000 +0800" stop="20260612100100 +0800">
+		<title lang="zh">TD-8广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612100100 +0800" stop="20260612101100 +0800">
+		<title lang="zh">颜百岁专题B（6.11）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612101100 +0800" stop="20260612102100 +0800">
+		<title lang="zh">午夜说亮话2026-162（匠心10）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612102100 +0800" stop="20260612102300 +0800">
+		<title lang="zh">宣传片A（6.1）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612102300 +0800" stop="20260612102500 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612102500 +0800" stop="20260612103000 +0800">
+		<title lang="zh">国坤堂专题（6.4）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612103000 +0800" stop="20260612103300 +0800">
+		<title lang="zh">TD-9广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612103300 +0800" stop="20260612103600 +0800">
+		<title lang="zh">老人鞋专题A（6.8）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612103600 +0800" stop="20260612104100 +0800">
+		<title lang="zh">钱塘老娘舅2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612104100 +0800" stop="20260612105100 +0800">
+		<title lang="zh">TD-10广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612105100 +0800" stop="20260612110600 +0800">
+		<title lang="zh">TD-11广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612110600 +0800" stop="20260612111800 +0800">
+		<title lang="zh">TD-12广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612111800 +0800" stop="20260612112300 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612112300 +0800" stop="20260612113300 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612113300 +0800" stop="20260612113700 +0800">
+		<title lang="zh">TD-13广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612113700 +0800" stop="20260612114200 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612114200 +0800" stop="20260612114400 +0800">
+		<title lang="zh">宣传片B（6.1）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612114400 +0800" stop="20260612115400 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612115400 +0800" stop="20260612115700 +0800">
+		<title lang="zh">老人鞋专题B（6.8）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612115700 +0800" stop="20260612120000 +0800">
+		<title lang="zh">TD-14广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612120000 +0800" stop="20260612120500 +0800">
+		<title lang="zh">1818黄金眼2026-162（民生版高清）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612120500 +0800" stop="20260612121300 +0800">
+		<title lang="zh">TC-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612121300 +0800" stop="20260612122600 +0800">
+		<title lang="zh">TC-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612122600 +0800" stop="20260612123900 +0800">
+		<title lang="zh">TC-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612123900 +0800" stop="20260612125300 +0800">
+		<title lang="zh">TC-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612125300 +0800" stop="20260612131700 +0800">
+		<title lang="zh">TC-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612131700 +0800" stop="20260612132200 +0800">
+		<title lang="zh">国坤堂专题（6.4）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612132200 +0800" stop="20260612132700 +0800">
+		<title lang="zh">颜百岁专题A（6.11）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612132700 +0800" stop="20260612133100 +0800">
+		<title lang="zh">TB-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612133100 +0800" stop="20260612133600 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612133600 +0800" stop="20260612134500 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-162</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612134500 +0800" stop="20260612140100 +0800">
+		<title lang="zh">TB-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612140100 +0800" stop="20260612141600 +0800">
+		<title lang="zh">TB-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612141600 +0800" stop="20260612142600 +0800">
+		<title lang="zh">TB-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612142600 +0800" stop="20260612143600 +0800">
+		<title lang="zh">TB-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612143600 +0800" stop="20260612144600 +0800">
+		<title lang="zh">TB-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612144600 +0800" stop="20260612144900 +0800">
+		<title lang="zh">TB-7广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612144900 +0800" stop="20260612145400 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612145400 +0800" stop="20260612145800 +0800">
+		<title lang="zh">TB-8广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612145800 +0800" stop="20260612153800 +0800">
+		<title lang="zh">PK大擂台2026-009（德中争霸赛）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612153800 +0800" stop="20260612154800 +0800">
+		<title lang="zh">MS专题2026-162（小妙招下午版）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612154800 +0800" stop="20260612155300 +0800">
+		<title lang="zh">TB-9广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612155300 +0800" stop="20260612155600 +0800">
+		<title lang="zh">老人鞋专题A（6.8）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612155600 +0800" stop="20260612160100 +0800">
+		<title lang="zh">钱塘老娘舅2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612160100 +0800" stop="20260612161100 +0800">
+		<title lang="zh">TB-10广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612161100 +0800" stop="20260612162600 +0800">
+		<title lang="zh">TB-11广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612162600 +0800" stop="20260612163800 +0800">
+		<title lang="zh">TB-12广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612163800 +0800" stop="20260612164800 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612164800 +0800" stop="20260612165300 +0800">
+		<title lang="zh">颜百岁专题B（6.11）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612165300 +0800" stop="20260612170300 +0800">
+		<title lang="zh">1818黄金屋2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612170300 +0800" stop="20260612170500 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612170500 +0800" stop="20260612173500 +0800">
+		<title lang="zh">我要惠生活2026-162（30版）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612173500 +0800" stop="20260612174000 +0800">
+		<title lang="zh">TB-13广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612174000 +0800" stop="20260612175000 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612175000 +0800" stop="20260612175500 +0800">
+		<title lang="zh">TB-14广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612175500 +0800" stop="20260612175600 +0800">
+		<title lang="zh">6频道海洋预报（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612175600 +0800" stop="20260612180000 +0800">
+		<title lang="zh">直播前广告</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612180000 +0800" stop="20260612181400 +0800">
 		<title lang="zh">1800看今晚</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612181800 +0800" stop="20260612193200 +0800">
-		<title lang="zh">1818黄金眼</title>
+	<programme channel="浙江民生" start="20260612181400 +0800" stop="20260612181800 +0800">
+		<title lang="zh">TA-1广告（6.12）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612193200 +0800" stop="20260612201000 +0800">
-		<title lang="zh">钱塘老娘舅</title>
+	<programme channel="浙江民生" start="20260612181800 +0800" stop="20260612193000 +0800">
+		<title lang="zh">直播1818黄金眼</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612193000 +0800" stop="20260612193200 +0800">
+		<title lang="zh">TA-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612193200 +0800" stop="20260612193700 +0800">
+		<title lang="zh">钱塘老娘舅2026-163（高清版）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612193700 +0800" stop="20260612194500 +0800">
+		<title lang="zh">TA-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612194500 +0800" stop="20260612195800 +0800">
+		<title lang="zh">TA-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612195800 +0800" stop="20260612200800 +0800">
+		<title lang="zh">TA-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612200800 +0800" stop="20260612201000 +0800">
+		<title lang="zh">TA-6广告（6.12）</title>
 	</programme>
 	<programme channel="浙江民生" start="20260612201000 +0800" stop="20260612210500 +0800">
-		<title lang="zh">PK大擂台</title>
+		<title lang="zh">PK大擂台2026-163（高清版）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612210500 +0800" stop="20260612211000 +0800">
-		<title lang="zh">原产地短片</title>
+	<programme channel="浙江民生" start="20260612210500 +0800" stop="20260612210800 +0800">
+		<title lang="zh">直播原产地短片</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612210800 +0800" stop="20260612211000 +0800">
+		<title lang="zh">直播前广告</title>
 	</programme>
 	<programme channel="浙江民生" start="20260612211000 +0800" stop="20260612220000 +0800">
-		<title lang="zh">1818公众版</title>
+		<title lang="zh">直播1818公众版</title>
 	</programme>
 	<programme channel="浙江民生" start="20260612220000 +0800" stop="20260612221000 +0800">
-		<title lang="zh">汽车先锋</title>
+		<title lang="zh">汽车先锋2026-163（高清版）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612221000 +0800" stop="20260612225700 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="浙江民生" start="20260612221000 +0800" stop="20260612225100 +0800">
+		<title lang="zh">《迎风的青春》27（缩编版）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612225700 +0800" stop="20260612234300 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="浙江民生" start="20260612225100 +0800" stop="20260612225300 +0800">
+		<title lang="zh">宣传片E（6.1）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612234300 +0800" stop="20260612235900 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="浙江民生" start="20260612225300 +0800" stop="20260612233500 +0800">
+		<title lang="zh">《迎风的青春》28（缩编版）</title>
 	</programme>
-	<programme channel="浙江民生" start="20260612235900 +0800" stop="20260612003000 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="浙江民生" start="20260612233500 +0800" stop="20260612233700 +0800">
+		<title lang="zh">宣传片B（6.1）</title>
+	</programme>
+	<programme channel="浙江民生" start="20260612233700 +0800" stop="20260612235900 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-162</title>
+	</programme>
+	<channel id="浙江民生休闲">
+		<display-name lang="zh">浙江民生休闲</display-name>
+	</channel>
+	<programme channel="浙江民生休闲" start="20260612000000 +0800" stop="20260612003000 +0800">
+		<title lang="zh">人文周刊32025-003（沈泽民）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612003000 +0800" stop="20260612003500 +0800">
+		<title lang="zh">1818黄金眼2026-162（民生版高清）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612003500 +0800" stop="20260612004300 +0800">
+		<title lang="zh">TC-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612004300 +0800" stop="20260612005600 +0800">
+		<title lang="zh">TC-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612005600 +0800" stop="20260612010900 +0800">
+		<title lang="zh">TC-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612010900 +0800" stop="20260612012300 +0800">
+		<title lang="zh">TC-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612012300 +0800" stop="20260612014700 +0800">
+		<title lang="zh">TC-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612014700 +0800" stop="20260612015000 +0800">
+		<title lang="zh">宣传片D（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612015000 +0800" stop="20260612023500 +0800">
+		<title lang="zh">金牌赛场2026-051（上半场）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612023500 +0800" stop="20260612032000 +0800">
+		<title lang="zh">金牌赛场2026-051（下半场）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612032000 +0800" stop="20260612032200 +0800">
+		<title lang="zh">宣传片A（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612032200 +0800" stop="20260612032500 +0800">
+		<title lang="zh">荒野茶宣传片（11.10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612032500 +0800" stop="20260612033000 +0800">
+		<title lang="zh">1818黄金眼2026-162（公众版高清）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612033000 +0800" stop="20260612033700 +0800">
+		<title lang="zh">TC-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612033700 +0800" stop="20260612034900 +0800">
+		<title lang="zh">TC-7广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612034900 +0800" stop="20260612035600 +0800">
+		<title lang="zh">TC-8广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612035600 +0800" stop="20260612040500 +0800">
+		<title lang="zh">TC-9广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612040500 +0800" stop="20260612041500 +0800">
+		<title lang="zh">1818黄金屋2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612041500 +0800" stop="20260612045800 +0800">
+		<title lang="zh">《大海道》5（缩编版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612045800 +0800" stop="20260612045900 +0800">
+		<title lang="zh">TC-10广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612045900 +0800" stop="20260612054300 +0800">
+		<title lang="zh">《大海道》6（缩编版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612054300 +0800" stop="20260612054400 +0800">
+		<title lang="zh">宣传片C（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612054400 +0800" stop="20260612054600 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612054600 +0800" stop="20260612054800 +0800">
+		<title lang="zh">宣传片B（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612054800 +0800" stop="20260612061300 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-160</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612061300 +0800" stop="20260612062500 +0800">
+		<title lang="zh">MS专题2026-162（华飞A）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612062500 +0800" stop="20260612064500 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-161</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612064500 +0800" stop="20260612065700 +0800">
+		<title lang="zh">MS专题2026-162（华飞B）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612065700 +0800" stop="20260612070700 +0800">
+		<title lang="zh">中国蓝·书画园地2026-001</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612070700 +0800" stop="20260612070900 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612070900 +0800" stop="20260612071400 +0800">
+		<title lang="zh">钱塘老娘舅2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612071400 +0800" stop="20260612072200 +0800">
+		<title lang="zh">TD-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612072200 +0800" stop="20260612073500 +0800">
+		<title lang="zh">TD-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612073500 +0800" stop="20260612074500 +0800">
+		<title lang="zh">TD-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612074500 +0800" stop="20260612075000 +0800">
+		<title lang="zh">TD-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612075000 +0800" stop="20260612080000 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612080000 +0800" stop="20260612080500 +0800">
+		<title lang="zh">1818黄金眼2026-162（公众版高清）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612080500 +0800" stop="20260612081200 +0800">
+		<title lang="zh">TC-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612081200 +0800" stop="20260612082400 +0800">
+		<title lang="zh">TC-7广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612082400 +0800" stop="20260612083100 +0800">
+		<title lang="zh">TC-8广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612083100 +0800" stop="20260612084000 +0800">
+		<title lang="zh">TC-9广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612084000 +0800" stop="20260612085000 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612085000 +0800" stop="20260612085400 +0800">
+		<title lang="zh">TD-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612085400 +0800" stop="20260612090300 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-162</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612090300 +0800" stop="20260612091900 +0800">
+		<title lang="zh">颜百岁专题A（6.11）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612091900 +0800" stop="20260612093400 +0800">
+		<title lang="zh">TD-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612093400 +0800" stop="20260612095000 +0800">
+		<title lang="zh">TD-7广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612095000 +0800" stop="20260612100100 +0800">
+		<title lang="zh">TD-8广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612100100 +0800" stop="20260612101100 +0800">
+		<title lang="zh">颜百岁专题B（6.11）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612101100 +0800" stop="20260612102100 +0800">
+		<title lang="zh">午夜说亮话2026-162（匠心10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612102100 +0800" stop="20260612102300 +0800">
+		<title lang="zh">宣传片A（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612102300 +0800" stop="20260612102500 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612102500 +0800" stop="20260612103000 +0800">
+		<title lang="zh">国坤堂专题（6.4）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612103000 +0800" stop="20260612103300 +0800">
+		<title lang="zh">TD-9广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612103300 +0800" stop="20260612103600 +0800">
+		<title lang="zh">老人鞋专题A（6.8）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612103600 +0800" stop="20260612104100 +0800">
+		<title lang="zh">钱塘老娘舅2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612104100 +0800" stop="20260612105100 +0800">
+		<title lang="zh">TD-10广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612105100 +0800" stop="20260612110600 +0800">
+		<title lang="zh">TD-11广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612110600 +0800" stop="20260612111800 +0800">
+		<title lang="zh">TD-12广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612111800 +0800" stop="20260612112300 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612112300 +0800" stop="20260612113300 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612113300 +0800" stop="20260612113700 +0800">
+		<title lang="zh">TD-13广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612113700 +0800" stop="20260612114200 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612114200 +0800" stop="20260612114400 +0800">
+		<title lang="zh">宣传片B（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612114400 +0800" stop="20260612115400 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612115400 +0800" stop="20260612115700 +0800">
+		<title lang="zh">老人鞋专题B（6.8）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612115700 +0800" stop="20260612120000 +0800">
+		<title lang="zh">TD-14广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612120000 +0800" stop="20260612120500 +0800">
+		<title lang="zh">1818黄金眼2026-162（民生版高清）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612120500 +0800" stop="20260612121300 +0800">
+		<title lang="zh">TC-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612121300 +0800" stop="20260612122600 +0800">
+		<title lang="zh">TC-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612122600 +0800" stop="20260612123900 +0800">
+		<title lang="zh">TC-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612123900 +0800" stop="20260612125300 +0800">
+		<title lang="zh">TC-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612125300 +0800" stop="20260612131700 +0800">
+		<title lang="zh">TC-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612131700 +0800" stop="20260612132200 +0800">
+		<title lang="zh">国坤堂专题（6.4）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612132200 +0800" stop="20260612132700 +0800">
+		<title lang="zh">颜百岁专题A（6.11）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612132700 +0800" stop="20260612133100 +0800">
+		<title lang="zh">TB-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612133100 +0800" stop="20260612133600 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612133600 +0800" stop="20260612134500 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-162</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612134500 +0800" stop="20260612140100 +0800">
+		<title lang="zh">TB-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612140100 +0800" stop="20260612141600 +0800">
+		<title lang="zh">TB-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612141600 +0800" stop="20260612142600 +0800">
+		<title lang="zh">TB-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612142600 +0800" stop="20260612143600 +0800">
+		<title lang="zh">TB-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612143600 +0800" stop="20260612144600 +0800">
+		<title lang="zh">TB-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612144600 +0800" stop="20260612144900 +0800">
+		<title lang="zh">TB-7广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612144900 +0800" stop="20260612145400 +0800">
+		<title lang="zh">老人鞋专题C（6.8）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612145400 +0800" stop="20260612145800 +0800">
+		<title lang="zh">TB-8广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612145800 +0800" stop="20260612153800 +0800">
+		<title lang="zh">PK大擂台2026-009（德中争霸赛）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612153800 +0800" stop="20260612154800 +0800">
+		<title lang="zh">MS专题2026-162（小妙招下午版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612154800 +0800" stop="20260612155300 +0800">
+		<title lang="zh">TB-9广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612155300 +0800" stop="20260612155600 +0800">
+		<title lang="zh">老人鞋专题A（6.8）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612155600 +0800" stop="20260612160100 +0800">
+		<title lang="zh">钱塘老娘舅2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612160100 +0800" stop="20260612161100 +0800">
+		<title lang="zh">TB-10广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612161100 +0800" stop="20260612162600 +0800">
+		<title lang="zh">TB-11广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612162600 +0800" stop="20260612163800 +0800">
+		<title lang="zh">TB-12广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612163800 +0800" stop="20260612164800 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612164800 +0800" stop="20260612165300 +0800">
+		<title lang="zh">颜百岁专题B（6.11）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612165300 +0800" stop="20260612170300 +0800">
+		<title lang="zh">1818黄金屋2026-162（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612170300 +0800" stop="20260612170500 +0800">
+		<title lang="zh">国乐无双宣传片（5.30）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612170500 +0800" stop="20260612173500 +0800">
+		<title lang="zh">我要惠生活2026-162（30版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612173500 +0800" stop="20260612174000 +0800">
+		<title lang="zh">TB-13广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612174000 +0800" stop="20260612175000 +0800">
+		<title lang="zh">MS专题2026-162（一家和兴10）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612175000 +0800" stop="20260612175500 +0800">
+		<title lang="zh">TB-14广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612175500 +0800" stop="20260612175600 +0800">
+		<title lang="zh">6频道海洋预报（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612175600 +0800" stop="20260612180000 +0800">
+		<title lang="zh">直播前广告</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612180000 +0800" stop="20260612181400 +0800">
+		<title lang="zh">1800看今晚</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612181400 +0800" stop="20260612181800 +0800">
+		<title lang="zh">TA-1广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612181800 +0800" stop="20260612193000 +0800">
+		<title lang="zh">直播1818黄金眼</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612193000 +0800" stop="20260612193200 +0800">
+		<title lang="zh">TA-2广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612193200 +0800" stop="20260612193700 +0800">
+		<title lang="zh">钱塘老娘舅2026-163（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612193700 +0800" stop="20260612194500 +0800">
+		<title lang="zh">TA-3广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612194500 +0800" stop="20260612195800 +0800">
+		<title lang="zh">TA-4广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612195800 +0800" stop="20260612200800 +0800">
+		<title lang="zh">TA-5广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612200800 +0800" stop="20260612201000 +0800">
+		<title lang="zh">TA-6广告（6.12）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612201000 +0800" stop="20260612210500 +0800">
+		<title lang="zh">PK大擂台2026-163（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612210500 +0800" stop="20260612210800 +0800">
+		<title lang="zh">直播原产地短片</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612210800 +0800" stop="20260612211000 +0800">
+		<title lang="zh">直播前广告</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612211000 +0800" stop="20260612220000 +0800">
+		<title lang="zh">直播1818公众版</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612220000 +0800" stop="20260612221000 +0800">
+		<title lang="zh">汽车先锋2026-163（高清版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612221000 +0800" stop="20260612225100 +0800">
+		<title lang="zh">《迎风的青春》27（缩编版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612225100 +0800" stop="20260612225300 +0800">
+		<title lang="zh">宣传片E（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612225300 +0800" stop="20260612233500 +0800">
+		<title lang="zh">《迎风的青春》28（缩编版）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612233500 +0800" stop="20260612233700 +0800">
+		<title lang="zh">宣传片B（6.1）</title>
+	</programme>
+	<programme channel="浙江民生休闲" start="20260612233700 +0800" stop="20260612235900 +0800">
+		<title lang="zh">PK大擂台（精编版）2026-162</title>
 	</programme>
 	<channel id="浙江经济生活">
 		<display-name lang="zh">浙江经济生活</display-name>
