@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260916011735 +0800">
+<tv date="20260916160409 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -19680,23 +19680,17 @@
 	<programme channel="广西国际" start="20260916073000 +0800" stop="20260916081500 +0800">
 		<title lang="zh">中外纪录片展播</title>
 	</programme>
-	<programme channel="广西国际" start="20260916081500 +0800" stop="20260916083000 +0800">
+	<programme channel="广西国际" start="20260916081500 +0800" stop="20260916082000 +0800">
 		<title lang="zh">《呼·应》</title>
 	</programme>
-	<programme channel="广西国际" start="20260916083000 +0800" stop="20260916100000 +0800">
+	<programme channel="广西国际" start="20260916082000 +0800" stop="20260916095000 +0800">
 		<title lang="zh">经典剧场：40集：大山的女儿 35-36</title>
 	</programme>
-	<programme channel="广西国际" start="20260916100000 +0800" stop="20260916103000 +0800">
+	<programme channel="广西国际" start="20260916095000 +0800" stop="20260916103000 +0800">
 		<title lang="zh">广西新闻</title>
 	</programme>
-	<programme channel="广西国际" start="20260916103000 +0800" stop="20260916110000 +0800">
-		<title lang="zh">并机新闻频道：《打开西部向海之门——平陆运河建成通航特别报道》</title>
-	</programme>
-	<programme channel="广西国际" start="20260916110000 +0800" stop="20260916131500 +0800">
-		<title lang="zh">时光剧场：40集：长乐曲 26-28</title>
-	</programme>
-	<programme channel="广西国际" start="20260916131500 +0800" stop="20260916133000 +0800">
-		<title lang="zh">《呼·应》</title>
+	<programme channel="广西国际" start="20260916103000 +0800" stop="20260916133000 +0800">
+		<title lang="zh">《打开西部向海之门——平陆运河建成通航特别报道》</title>
 	</programme>
 	<programme channel="广西国际" start="20260916133000 +0800" stop="20260916160000 +0800">
 		<title lang="zh">天下剧场：36集：一路朝阳 10-12</title>
