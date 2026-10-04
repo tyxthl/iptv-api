@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261004014358 +0800">
+<tv date="20261004162810 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -12494,6 +12494,66 @@
 	</programme>
 	<programme channel="崇左综合" start="20261004232400 +0800" stop="20261004235900 +0800">
 		<title lang="zh">午夜剧场</title>
+	</programme>
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20261004000000 +0800" stop="20261004005200 +0800">
+		<title lang="zh">重播 亚运赛场:2026年亚运会选播(1002)之一</title>
+	</programme>
+	<programme channel="广东体育" start="20261004005200 +0800" stop="20261004012200 +0800">
+		<title lang="zh">重播 2026年广东省城市足球超级联赛八强赛首回合 汕尾vs深圳</title>
+	</programme>
+	<programme channel="广东体育" start="20261004012200 +0800" stop="20261004021400 +0800">
+		<title lang="zh">重播 25-26CBA赛场第40轮 广东东阳光vs福建晋江文旅</title>
+	</programme>
+	<programme channel="广东体育" start="20261004021400 +0800" stop="20261004031400 +0800">
+		<title lang="zh">重播 25-26CBA赛场第40轮 深圳马可波罗vs宁波町渥</title>
+	</programme>
+	<programme channel="广东体育" start="20261004031400 +0800" stop="20261004040600 +0800">
+		<title lang="zh">重播 25-26CBA赛场第37轮 深圳马可波罗vs江苏肯帝亚</title>
+	</programme>
+	<programme channel="广东体育" start="20261004040600 +0800" stop="20261004054300 +0800">
+		<title lang="zh">重播 2026F1第12站荷兰大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20261004054300 +0800" stop="20261004073900 +0800">
+		<title lang="zh">重播 亚运赛场:2026年亚运会选播</title>
+	</programme>
+	<programme channel="广东体育" start="20261004073900 +0800" stop="20261004081000 +0800">
+		<title lang="zh">重播 2026年广东省城市足球超级联赛半决赛首回合</title>
+	</programme>
+	<programme channel="广东体育" start="20261004081000 +0800" stop="20261004102000 +0800">
+		<title lang="zh">重播 亚运赛场:2026年亚运会选播</title>
+	</programme>
+	<programme channel="广东体育" start="20261004102000 +0800" stop="20261004104900 +0800">
+		<title lang="zh">首播 珠江少年派(39)</title>
+	</programme>
+	<programme channel="广东体育" start="20261004104900 +0800" stop="20261004145000 +0800">
+		<title lang="zh">重播 亚运赛场:2026年亚运会选播</title>
+	</programme>
+	<programme channel="广东体育" start="20261004145000 +0800" stop="20261004165500 +0800">
+		<title lang="zh">直播 2026世界一级方程式锦标赛第16站巴林大奖赛(15:00 正赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20261004165500 +0800" stop="20261004183400 +0800">
+		<title lang="zh">直播 2026年亚运会闭幕式(17:00)</title>
+	</programme>
+	<programme channel="广东体育" start="20261004183400 +0800" stop="20261004193600 +0800">
+		<title lang="zh">首播 亚运赛场:2026年亚运会选播(1004)之一</title>
+	</programme>
+	<programme channel="广东体育" start="20261004193600 +0800" stop="20261004210000 +0800">
+		<title lang="zh">首播 亚运赛场:2026年亚运会选播(1004)之二</title>
+	</programme>
+	<programme channel="广东体育" start="20261004210000 +0800" stop="20261004212400 +0800">
+		<title lang="zh">直播《体育世界之亚运时间》(14)</title>
+	</programme>
+	<programme channel="广东体育" start="20261004212400 +0800" stop="20261004213400 +0800">
+		<title lang="zh">首播 亚运会精选10分钟版(2)田径项目</title>
+	</programme>
+	<programme channel="广东体育" start="20261004213400 +0800" stop="20261004233400 +0800">
+		<title lang="zh">重播 亚运赛场:2026年亚运会选播</title>
+	</programme>
+	<programme channel="广东体育" start="20261004233400 +0800" stop="20261004235900 +0800">
+		<title lang="zh">重播 亚运赛场:2026年亚运会选播</title>
 	</programme>
 	<channel id="广东新闻">
 		<display-name lang="zh">广东新闻</display-name>
